@@ -115,4 +115,4 @@ def send_keyboard_button(chat_id, msg, button_type, button_text):
 
 if __name__ == "__main__":
     # pass
-    print(send_image(chat_id=314602198, file_path='https://instagram.fnjf3-2.fna.fbcdn.net/v/t51.2885-19/s320x320/145549448_206462371214924_6878609620421372420_n.jpg?_nc_ht=instagram.fnjf3-2.fna.fbcdn.net&_nc_ohc=c5PMq819OvYAX_iFuzD&tp=1&oh=f153788538cf3a872edbf736af12404a&oe=60606605'))
+    print(send_image(chat_id=*******, file_path='https://instagram.fnjf3-2.fna.fbcdn.net/v/t51.2885-19/s320x320/145549448_206462371214924_6878609620421372420_n.jpg?_nc_ht=instagram.fnjf3-2.fna.fbcdn.net&_nc_ohc=c5PMq819OvYAX_iFuzD&tp=1&oh=f153788538cf3a872edbf736af12404a&oe=60606605'))
